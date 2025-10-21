@@ -1,5 +1,6 @@
 package lab4;
 
+
 public class Point {
 	double x;
 	double y;
@@ -30,3 +31,4 @@ public class Point {
 		return true;
 	}
 }
+

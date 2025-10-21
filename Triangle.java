@@ -1,5 +1,6 @@
 package lab4;
 
+
 public class Triangle {
 	Point A;
 	Point B;
@@ -23,3 +24,5 @@ public class Triangle {
 			return false;
 	}
 }
+
+
