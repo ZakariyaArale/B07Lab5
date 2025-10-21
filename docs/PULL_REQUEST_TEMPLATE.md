@@ -18,4 +18,3 @@ Added two classes Point and Triangle.
 - All errors have been handled where applicable [x]
 - No redundant or dead code [x]
 
-
