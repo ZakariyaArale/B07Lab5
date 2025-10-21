@@ -8,7 +8,6 @@ Please insert an 'X' to the type of change made
 - Fix []
 - Testing []
 - Comment/Documentation []
-- Method/Consturctor change []
 
 ## Self Code Review
 Please insert an 'X' to verify you have satisifed the bullet point (make sure you satisfy each bullet before creating the pull request)
