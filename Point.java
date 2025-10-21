@@ -1,4 +1,4 @@
-package lab4;
+package lab5;
 
 
 public class Point {
@@ -31,4 +31,3 @@ public class Point {
 		return true;
 	}
 }
-
