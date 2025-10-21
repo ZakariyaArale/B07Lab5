@@ -1,20 +1,21 @@
 ## Change Description 
-Added two classes Point and Triangle. 
-- Point deals with 2D coordiante arithmetic (such as distance and point equality) and unqiue hash code
-- Triangle creates triangles using Point and performs some geometrical calcuations such as perimeter and equilateral triangle verification
+Provide a brief summary of the changes made.
   
 ## Type of Change
+Please insert an 'X' to the type of change made
 - Feature []
-- Chore [x]
+- Chore []
 - Fix []
 - Testing []
 - Comment/Documentation []
 - Method/Consturctor change []
 
 ## Self Code Review
-- Test cases has 100% statment coverage for each class [x]
-- All test cases pertaining to each class pass [x]
-- Method and variable names are descriptive [x]
-- All errors have been handled where applicable [x]
-- No redundant or dead code [x]
+Please insert an 'X' to verify you have satisifed the bullet point (make sure you satisfy each bullet before creating the pull request)
+- Test cases have 100% statment coverage for each class []
+- All test cases pertaining to each class pass []
+- Method and variable names are descriptive []
+- Comment are brief and descritive where applicable []
+- All errors have been handled where applicable []
+- No redundant or dead code []
 
