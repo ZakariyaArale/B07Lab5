@@ -4,7 +4,8 @@ Added two classes Point and Triangle.
 - Triangle creates triangles using Point and performs some geometrical calcuations such as perimeter and equilateral triangle verification
   
 ## Type of Change
-- Feature [x]
+- Feature []
+- Chore [x]
 - Fix []
 - Testing []
 - Comment/Documentation []
@@ -16,3 +17,5 @@ Added two classes Point and Triangle.
 - Method and variable names are descriptive [x]
 - All errors have been handled where applicable [x]
 - No redundant or dead code [x]
+
+
