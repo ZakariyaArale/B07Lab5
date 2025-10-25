@@ -17,6 +17,8 @@ public class Rectangle {
 	//Note we take length and width to be non negative 
 	//values meaning we take the abs value of the given 
 	//dimensions even if a negative value is given
+	//Zero dimensions are allow and are treated as dist from origin 
+	//(for simplicity we'll use the MATB41 defn of a rectangular region)
 	public Rectangle(double length, double width)
 	{
 		this.length = Math.abs(length);
@@ -24,6 +26,9 @@ public class Rectangle {
 	}
 	
 	//Calculate perimeter of rectangle
+	//If one of the dimensions is 0 we'll calulate as the other dimension * 2
+	//We'll use the MATB41 defn of an enclose region and treat it line distance
+	//from the origin
 	public double perimeter()
 	{
 		return 2*this.length + 2*this.width;
