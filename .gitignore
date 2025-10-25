@@ -1,0 +1,18 @@
+# Eclipse/IDE
+.classpath
+.project
+.settings/
+.metadata/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Build outputs
+bin/
+out/
+target/
+*.class
+
+# macOS
+.DS_Store
