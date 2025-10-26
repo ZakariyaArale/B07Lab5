@@ -3,7 +3,7 @@ package lab5;
 import static org.junit.Assert.*;
 import org.junit.Test;
 
-public class RectangleTests {
+public class RectangleTests2 {
 
     @Test
     public void defaultConstructor_is1x1Square_trueBranch() {
