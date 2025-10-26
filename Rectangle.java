@@ -1,12 +1,10 @@
-package lab5;
-
 public class Rectangle {
 	//According to Piazza we dont need to use point so we
 	//define rectangle as the following
 	double length; 
 	double width;
 	
-	
+
 	//Default rectangle: 1x1 square 
 	public Rectangle()
 	{
