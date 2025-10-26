@@ -1,6 +1,3 @@
-package lab5;
-
-
 public class Circle {
 	double radius;
 	

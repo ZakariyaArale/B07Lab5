@@ -1,6 +1,3 @@
-package lab5;
-
-
 public class Triangle {
 	Point A;
 	Point B;
@@ -13,6 +10,7 @@ public class Triangle {
 	public double perimeter() {
 		return A.distance(B) + B.distance(C) + C.distance(A);
 	}
+	
 	
 	public boolean isEquilateral() {
 		double dAB = A.distance(B);
