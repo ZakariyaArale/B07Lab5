@@ -6,6 +6,7 @@ public class Rectangle {
 	double length; 
 	double width;
 	
+	
 	//Default rectangle: 1x1 square 
 	public Rectangle()
 	{
