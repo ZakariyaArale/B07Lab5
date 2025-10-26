@@ -1,3 +1,4 @@
+
 public class Rectangle {
 	//According to Piazza we dont need to use point so we
 	//define rectangle as the following
