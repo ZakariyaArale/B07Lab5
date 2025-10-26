@@ -17,7 +17,7 @@ import org.junit.jupiter.api.Test;
  */
 
 
-class RectangleTests {
+class RectangleTest {
 	
 	//TO DO: Ayden should add tests the deal with doubles as length and width are doubles. 
 	//			Feel free to add any other tests you can think of as well. :)
